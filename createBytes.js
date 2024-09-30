@@ -1,3 +1,5 @@
+//this program encrypts a string into Base32 format
+
 const ethers = require('ethers');
 
 async function createBytes(args)
