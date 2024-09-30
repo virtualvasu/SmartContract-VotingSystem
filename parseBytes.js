@@ -1,3 +1,5 @@
+//this program decrypts from Base32 to string 
+
 const ethers = require('ethers');
 
 async function parseBytes(args)
